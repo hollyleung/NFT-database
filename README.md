@@ -2,7 +2,7 @@
 So far only Dune analytics has been used
 
 Data sample can be found here: 
-https://drive.google.com/drive/folders/1o2umYLCZIh6unQoote_Fo6OkY6xAsxeu?usp=sharing 
+https://drive.google.com/drive/folders/1v_gatEBEndrYHfYZcsqt6SY_YHKmSI5u?usp=sharing
 
-Dune analytics query is here:
+Dune analytics SQL query can be found here:
 https://dune.com/sakamotoryuichi
